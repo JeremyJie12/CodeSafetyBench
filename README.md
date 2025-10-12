@@ -28,8 +28,7 @@ To address this critical issue, **CodeSafetyBench** provides the first **systema
 
 ---
 
-## Code Availability
+## Reproducibility
 
-The complete source code implementation will be made publicly available upon paper acceptance. This repository currently contains the datasets, preprocessing utilities, and experimental setup to facilitate reproducibility.
-
+This repository contains the datasets and basic processing scripts used in our experiments. Complete implementation code will be made available upon paper acceptance.
 
