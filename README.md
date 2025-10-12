@@ -1,11 +1,10 @@
-# CodeSafetyBench
-# 🧩 CodeSafetyBench: Benchmarking and Enhancing Code Generation Safety in LLMs
+# CodeSafetyBench: Benchmarking and Enhancing Code Generation Safety in LLMs
 
 > A benchmark dataset for evaluating and improving the ethical safety of large language models (LLMs) in code generation — across **healthcare**, **law**, and **education** domains.
 
 ---
 
-## 🧠 Overview
+## Overview
 
 Large language models (LLMs) have revolutionized code generation, yet they also introduce serious **ethical and security risks**.  
 Our research reveals that even advanced models such as GPT-4o can produce **harmful code in up to 78.67% of adversarial prompts**.
@@ -14,12 +13,12 @@ To address this critical issue, **CodeSafetyBench** provides the first **systema
 
 ---
 
-## 📚 Key Features
+## Key Features
 
 - **1,050 harmful code requests** across three domains:
-  - 🏥 Healthcare  
-  - ⚖️ Law  
-  - 🎓 Education
+  -  Healthcare  
+  -  Law  
+  -  Education
 - Each case includes **three response types**:
   1. **Harmful Response** — Unsafe code generated directly from the prompt  
   2. **Refusal Response** — Simple rejection of the harmful request  
@@ -29,5 +28,8 @@ To address this critical issue, **CodeSafetyBench** provides the first **systema
 
 ---
 
-## 🧩 Dataset Structure
+## Code Availability
+
+The complete source code implementation will be made publicly available upon paper acceptance. This repository currently contains the datasets, preprocessing utilities, and experimental setup to facilitate reproducibility.
+
 
