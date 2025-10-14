@@ -35,7 +35,8 @@ This repository contains the datasets and basic processing scripts used in our e
 ## Dataset Structure
 
 The repository includes an examples/ directory to help users understand and reproduce our dataset design and evaluation workflow.
-'''
+
+```text
 CodeSafetyBench/
 │
 ├── examples/
@@ -48,4 +49,4 @@ CodeSafetyBench/
 │       └── train.json # Training set for model fine-tuning (SFT/DPO)
 │
 └── README.md
-'''
+
