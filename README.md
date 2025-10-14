@@ -32,3 +32,19 @@ To address this critical issue, **CodeSafetyBench** provides the first **systema
 
 This repository contains the datasets and basic processing scripts used in our experiments. Complete implementation code will be made available upon paper acceptance.
 
+## Dataset Structure
+
+The repository includes an examples/ directory to help users understand and reproduce our dataset design and evaluation workflow.
+CodeSafetyBench/
+│
+├── examples/
+│   ├── eval/
+│   │   ├── med.json   # Healthcare domain evaluation set
+│   │   ├── leg.json   # Legal domain evaluation set
+│   │   └── edu.json   # Education domain evaluation set
+│   │
+│   └── train/
+│       └── train.json # Training set for model fine-tuning (SFT/DPO)
+│
+└── README.md
+
