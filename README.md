@@ -41,9 +41,9 @@ CodeSafetyBench/
 │
 ├── examples/
 │   ├── eval/
-│   │   ├── med.json   # Healthcare domain evaluation set
-│   │   ├── leg.json   # Legal domain evaluation set
-│   │   └── edu.json   # Education domain evaluation set
+│   │   ├── healthcare.json   # Healthcare domain evaluation set
+│   │   ├── law.json   # Legal domain evaluation set
+│   │   └── education.json   # Education domain evaluation set
 │   │
 │   └── train/
 │       └── train.json # Training set for model fine-tuning
