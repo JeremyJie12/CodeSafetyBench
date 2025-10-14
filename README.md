@@ -34,7 +34,7 @@ We currently provide sample data and examples. The complete and detailed dataset
 
 ## Dataset Structure
 
-The repository includes an examples/ directory to help users understand and reproduce our dataset design and evaluation workflow.
+The repository includes an dataset/ directory to help users understand and reproduce our dataset design and evaluation workflow.
 
 ```text
 CodeSafetyBench/
