@@ -39,14 +39,14 @@ The repository includes an examples/ directory to help users understand and repr
 ```text
 CodeSafetyBench/
 │
-├── examples/
+├── dataset/
 │   ├── eval/
-│   │   ├── healthcare.json   # Healthcare domain evaluation set
-│   │   ├── law.json   # Legal domain evaluation set
-│   │   └── education.json   # Education domain evaluation set
+│   │   ├── healthcare_example.json   # Healthcare domain evaluation set
+│   │   ├── law_example.json   # Legal domain evaluation set
+│   │   └── education_example.json   # Education domain evaluation set
 │   │
 │   └── train/
-│       └── train.json # Training set for model fine-tuning
+│       └── train_example.json # Training set for model fine-tuning
 │
 └── README.md
 
