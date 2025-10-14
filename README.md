@@ -46,7 +46,7 @@ CodeSafetyBench/
 │   │   └── edu.json   # Education domain evaluation set
 │   │
 │   └── train/
-│       └── train.json # Training set for model fine-tuning (SFT/DPO)
+│       └── train.json # Training set for model fine-tuning
 │
 └── README.md
 
