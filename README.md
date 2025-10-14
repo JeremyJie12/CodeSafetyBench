@@ -30,7 +30,7 @@ To address this critical issue, **CodeSafetyBench** provides the first **systema
 
 ## Reproducibility
 
-This repository contains the datasets and basic processing scripts used in our experiments. Complete implementation code will be made available upon paper acceptance.
+We currently provide sample data and examples. The complete and detailed dataset will be released upon paper acceptance.
 
 ## Dataset Structure
 
